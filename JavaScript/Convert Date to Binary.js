@@ -10,5 +10,5 @@ var convertDateToBinary = function(date) {
     return `${r1}-${r2}-${r3}`
  
  };
-const date = "2080-02-29"
-console.log(convertDateToBinary(date))
+const date = "2080-02-29";
+console.log(convertDateToBinary(date));
