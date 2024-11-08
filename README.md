@@ -10,4 +10,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Abhaypc112/LEET-CODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
+## Hash Table
+|  |
+| ------- |
+| [1297-maximum-number-of-balloons](https://github.com/Abhaypc112/LEET-CODE/tree/master/1297-maximum-number-of-balloons) |
+## String
+|  |
+| ------- |
+| [1297-maximum-number-of-balloons](https://github.com/Abhaypc112/LEET-CODE/tree/master/1297-maximum-number-of-balloons) |
+## Counting
+|  |
+| ------- |
+| [1297-maximum-number-of-balloons](https://github.com/Abhaypc112/LEET-CODE/tree/master/1297-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
