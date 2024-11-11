@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Abhaypc112/LEET-CODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhaypc112/LEET-CODE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,4 +23,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1297-maximum-number-of-balloons](https://github.com/Abhaypc112/LEET-CODE/tree/master/1297-maximum-number-of-balloons) |
+## Two Pointers
+|  |
+| ------- |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhaypc112/LEET-CODE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## Binary Search
+|  |
+| ------- |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhaypc112/LEET-CODE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## Sorting
+|  |
+| ------- |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhaypc112/LEET-CODE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
