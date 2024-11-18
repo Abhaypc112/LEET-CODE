@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Abhaypc112/LEET-CODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Abhaypc112/LEET-CODE/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [2502-sort-the-people](https://github.com/Abhaypc112/LEET-CODE/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhaypc112/LEET-CODE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
