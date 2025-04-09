@@ -53,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/Abhaypc112/LEET-CODE/tree/master/2308-divide-array-into-equal-pairs) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Abhaypc112/LEET-CODE/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
